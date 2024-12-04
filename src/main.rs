@@ -5,4 +5,5 @@ fn main() {
     println!("test 3 en mode dev");
     println!("test 4 en mode dev");
     println!("test 5 en mode dev");
+    println!("test 6 en mode dev");
 }
