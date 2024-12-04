@@ -9,4 +9,5 @@ fn main() {
     println!("test 7 en mode dev");
     println!("test 8 en mode dev");
     println!("test 9 en mode dev");
+    println!("test 10 en mode dev");
 }
