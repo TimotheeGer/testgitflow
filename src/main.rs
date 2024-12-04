@@ -8,4 +8,5 @@ fn main() {
     println!("test 6 en mode dev");
     println!("test 7 en mode dev");
     println!("test 8 en mode dev");
+    println!("test 9 en mode dev");
 }
